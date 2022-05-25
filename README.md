@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED TO [SOURCEHUT](https://git.sr.ht/~raiguard/harpoon.kak)
+
 # harpoon.kak
 
 Quickly switch between your most important Kakoune files.
